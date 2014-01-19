@@ -2,7 +2,7 @@
 /*
 Plugin Name: HyToLat
 Plugin URI: http://wordpress.org/plugins/hytolat/
-Description: Converts Armenian characters in post,page and term slugs to Latin characters. Very useful for Armenian-speaking users of WordPress. You can use this plugin for creating human-readable links. Send your suggestions and critics to <a href="mailto:daviderevan@yandex.ru">daviderevan@yandex.ru</a>.
+Description: Converts Armenian characters in post,page and term links to Latin characters. Very useful for Armenian-speaking users of WordPress. You can use this plugin for creating human-readable links. Send your suggestions and critics to <a href="mailto:daviderevan@yandex.ru">daviderevan@yandex.ru</a>.
 Author: David Davtyan <daviderevan@yandex.ru>
 Author URI: http://aboutgadget.ru
 Version: 0.1
