@@ -1,19 +1,19 @@
 === HyToLat ===
 Contributors: Davtyan David
-Tags: url, translations, transliteration, slugs, armenian, hytolat, arm, hy, AM
+Tags: url, translations, transliteration, slugs, armenian, hytolat, arm, hy, AM, links
 Requires at least: 1.5
 Tested up to: 3.8
 Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Converts Armenian characters in post slugs to Latin characters.
+Converts Armenian characters in post,page and term links to Latin characters.
 
 == Description ==
 
 **The plugin is based on the [Rus-To-Lat](http://wordpress.org/plugins/rustolat/) by Anton Skorobogatov**
 
-Converts Armenian characters in post,page and term slugs to Latin characters. Very useful for Armenian-speaking users of WordPress.
+Converts Armenian characters in post,page and term links to Latin characters. Very useful for Armenian-speaking users of WordPress.
 You can use this plugin for creating human-readable links.
 
 Конвертирует Армянские символы в ссылках записей, страниц и меток в Латинские символы. Очень полезен для Армяно-говорящих пользователей WordPress.
